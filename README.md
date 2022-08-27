@@ -1,4 +1,4 @@
-# Bike Buyers Analysis
+# Bike Customers Analysis
 This is just a small project to explore Excel visualization capabilities. I must say I prefer PowerBI for that purpose though.
 
 With a public database of bike buyers, I've done a quick analysis on what affect the most to someone buying a bike, and portrayed it as an Excel dashboard.
